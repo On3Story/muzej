@@ -1,0 +1,20 @@
+body {
+    background-color: #d2d2d2;
+
+}
+#navbar .btn-primary{
+    min-width: 125px;
+    margin-top: 50px;
+}
+#navbar .logo {
+    padding-top: 0px;
+}
+#navbar {
+    margin: 0px 480px;
+}
+#navbar-wrapper {
+    height: 150px;
+}
+#navbar-wrapper {
+    background-color:rgba(0,0,0,0.5);
+}
